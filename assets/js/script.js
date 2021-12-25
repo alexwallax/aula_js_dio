@@ -2,7 +2,11 @@
 
 //let array = ['string', 1, true];
 
+/*
 let array = ['string', 1, true, ['array1'],['array2'],['array3'],['array4']];
+*/
+
+
 
 /*
 console.log(array);
@@ -69,6 +73,7 @@ console.log(novoArray);
 
 
 // objeto
+/*
 let objeto = { string: 'string', numbrt: 1, booleana: true, array: ["array"], objectInterno: {objectInterno: "objeto interno"}};
 
 //console.log(objeto);
@@ -79,5 +84,10 @@ console.log(objeto.objectInterno);
 // buscando apenas as strings do array
 var string = objeto.string;
 console.log(string);
+*/
+
+
+
+/*********************************************************************************/
 
 
