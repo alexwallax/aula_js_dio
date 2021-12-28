@@ -27,3 +27,8 @@ console.log(user);
 delete user.name;
 
 console.log(user);
+
+console.log('');
+console.log('');
+console.log('');
+console.log('');
